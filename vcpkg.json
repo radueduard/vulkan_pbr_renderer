@@ -1,0 +1,6 @@
+{
+    "name": "vulkan-engine",
+    "dependencies": [
+        "vulkan", "glfw3", "glm", "stb", "ms-gltf"
+    ]
+}
